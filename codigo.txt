@@ -1,0 +1,11 @@
+public class c1{
+int a1 = 1;
+int b1 = 2;
+int c1 = 3;
+int d1 = 4;
+int e1 = 5;
+
+int x1 = a1 + b1 / c1 * d1;
+int x2 = a1 * b1 / (c1 + d1 - e1);
+int x3 = (a1 + b1 - c1 + d1) - e1;
+}
